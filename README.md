@@ -1,5 +1,11 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Nahuel Palumbo
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
+![Yo](yo1.jpg)
+
+Holaaa!! Mi nombre es Nahuel Palumbo pero acá la mayoría me referencia como **Rasta** (ya veremos más sobre referencias con Objetos!). Me dedico a programar, enseñar programación y construir herramientas para que la gente aprenda programación programando.
+
+Los datos más importantes sobre mi persona es que mi color favorito es el naranja y me gusta la menta granizada (Best gusto de helado ever!)
+
+Espero poder ayudarles con su paso por la materia y que pasemos buenos momentos 🙂
